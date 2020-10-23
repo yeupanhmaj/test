@@ -1,0 +1,36 @@
+C:\Data\Working\VAS_Assizes\Source Code\WebUI\Resources\bin\Release\Resources.dll
+C:\Data\Working\VAS_Assizes\Source Code\WebUI\Resources\bin\Release\Resources.pdb
+C:\Data\Working\VAS_Assizes\Source Code\WebUI\Resources\obj\Release\Resources.LanguageResource.resources
+C:\Data\Working\VAS_Assizes\Source Code\WebUI\Resources\obj\Release\Resources.csproj.GenerateResource.Cache
+C:\Data\Working\VAS_Assizes\Source Code\WebUI\Resources\obj\Release\Resources.dll
+C:\Data\Working\VAS_Assizes\Source Code\WebUI\Resources\obj\Release\Resources.pdb
+C:\Data\Working\VAS_Assizes\Source Code\WebUI\Resources\obj\Release\Resources.csprojResolveAssemblyReference.cache
+D:\Working\VAS_Assizes\Source Code\WebUI\Resources\bin\Release\Resources.dll
+D:\Working\VAS_Assizes\Source Code\WebUI\Resources\bin\Release\Resources.pdb
+D:\Working\VAS_Assizes\Source Code\WebUI\Resources\obj\Release\Resources.LanguageResource.resources
+D:\Working\VAS_Assizes\Source Code\WebUI\Resources\obj\Release\Resources.csproj.GenerateResource.cache
+D:\Working\VAS_Assizes\Source Code\WebUI\Resources\obj\Release\Resources.csproj.CoreCompileInputs.cache
+D:\Working\VAS_Assizes\Source Code\WebUI\Resources\obj\Release\Resources.dll
+D:\Working\VAS_Assizes\Source Code\WebUI\Resources\obj\Release\Resources.pdb
+D:\Download\WebUI\Resources\bin\Release\Resources.dll
+D:\Download\WebUI\Resources\bin\Release\Resources.pdb
+D:\Download\WebUI\Resources\obj\Release\Resources.LanguageResource.resources
+D:\Download\WebUI\Resources\obj\Release\Resources.csproj.GenerateResource.cache
+D:\Download\WebUI\Resources\obj\Release\Resources.csproj.CoreCompileInputs.cache
+D:\Download\WebUI\Resources\obj\Release\Resources.dll
+D:\Download\WebUI\Resources\obj\Release\Resources.pdb
+D:\Source Git\PMC_VAS\WebUI\Resources\bin\Release\Resources.dll
+D:\Source Git\PMC_VAS\WebUI\Resources\bin\Release\Resources.pdb
+D:\Source Git\PMC_VAS\WebUI\Resources\obj\Release\Resources.LanguageResource.resources
+D:\Source Git\PMC_VAS\WebUI\Resources\obj\Release\Resources.csproj.GenerateResource.cache
+D:\Source Git\PMC_VAS\WebUI\Resources\obj\Release\Resources.csproj.CoreCompileInputs.cache
+D:\Source Git\PMC_VAS\WebUI\Resources\obj\Release\Resources.dll
+D:\Source Git\PMC_VAS\WebUI\Resources\obj\Release\Resources.pdb
+D:\66\PMc\Resources\bin\Release\Resources.dll
+D:\66\PMc\Resources\bin\Release\Resources.pdb
+D:\66\PMc\Resources\obj\Release\Resources.csprojAssemblyReference.cache
+D:\66\PMc\Resources\obj\Release\Resources.LanguageResource.resources
+D:\66\PMc\Resources\obj\Release\Resources.csproj.GenerateResource.cache
+D:\66\PMc\Resources\obj\Release\Resources.csproj.CoreCompileInputs.cache
+D:\66\PMc\Resources\obj\Release\Resources.dll
+D:\66\PMc\Resources\obj\Release\Resources.pdb

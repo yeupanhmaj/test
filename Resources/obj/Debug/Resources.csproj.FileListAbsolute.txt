@@ -1,0 +1,68 @@
+C:\Data\Working\VAS_Assizes\Source Code\WebUI\Resources\bin\Debug\Resources.dll
+C:\Data\Working\VAS_Assizes\Source Code\WebUI\Resources\bin\Debug\Resources.pdb
+C:\Data\Working\VAS_Assizes\Source Code\WebUI\Resources\obj\Debug\Resources.LanguageResource.resources
+C:\Data\Working\VAS_Assizes\Source Code\WebUI\Resources\obj\Debug\Resources.csproj.GenerateResource.Cache
+C:\Data\Working\VAS_Assizes\Source Code\WebUI\Resources\obj\Debug\Resources.dll
+C:\Data\Working\VAS_Assizes\Source Code\WebUI\Resources\obj\Debug\Resources.pdb
+C:\Data\Working\VAS_Assizes\Source Code\WebUI\Resources\obj\Debug\Resources.csprojResolveAssemblyReference.cache
+D:\Working\VAS_Assizes\Source Code\WebUI\Resources\bin\Debug\Resources.dll
+D:\Working\VAS_Assizes\Source Code\WebUI\Resources\bin\Debug\Resources.pdb
+D:\Working\VAS_Assizes\Source Code\WebUI\Resources\obj\Debug\Resources.LanguageResource.resources
+D:\Working\VAS_Assizes\Source Code\WebUI\Resources\obj\Debug\Resources.csproj.GenerateResource.cache
+D:\Working\VAS_Assizes\Source Code\WebUI\Resources\obj\Debug\Resources.dll
+D:\Working\VAS_Assizes\Source Code\WebUI\Resources\obj\Debug\Resources.pdb
+D:\Working\VAS_Assizes\Source Code\WebUI\Resources\obj\Debug\Resources.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\VAS_PMC_AppKiemLieu\Source Code\WebUI\Resources\bin\Debug\Resources.dll
+C:\Users\ASUS\Downloads\VAS_PMC_AppKiemLieu\Source Code\WebUI\Resources\bin\Debug\Resources.pdb
+C:\Users\ASUS\Downloads\VAS_PMC_AppKiemLieu\Source Code\WebUI\Resources\obj\Debug\Resources.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\VAS_PMC_AppKiemLieu\Source Code\WebUI\Resources\obj\Debug\Resources.LanguageResource.resources
+C:\Users\ASUS\Downloads\VAS_PMC_AppKiemLieu\Source Code\WebUI\Resources\obj\Debug\Resources.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\VAS_PMC_AppKiemLieu\Source Code\WebUI\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\VAS_PMC_AppKiemLieu\Source Code\WebUI\Resources\obj\Debug\Resources.dll
+C:\Users\ASUS\Downloads\VAS_PMC_AppKiemLieu\Source Code\WebUI\Resources\obj\Debug\Resources.pdb
+D:\Download\VAS\VAS_PMC_AppKiemLieu\Source Code\WebUI\Resources\bin\Debug\Resources.dll
+D:\Download\VAS\VAS_PMC_AppKiemLieu\Source Code\WebUI\Resources\bin\Debug\Resources.pdb
+D:\Download\VAS\VAS_PMC_AppKiemLieu\Source Code\WebUI\Resources\obj\Debug\Resources.LanguageResource.resources
+D:\Download\VAS\VAS_PMC_AppKiemLieu\Source Code\WebUI\Resources\obj\Debug\Resources.csproj.GenerateResource.cache
+D:\Download\VAS\VAS_PMC_AppKiemLieu\Source Code\WebUI\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+D:\Download\VAS\VAS_PMC_AppKiemLieu\Source Code\WebUI\Resources\obj\Debug\Resources.dll
+D:\Download\VAS\VAS_PMC_AppKiemLieu\Source Code\WebUI\Resources\obj\Debug\Resources.pdb
+D:\Download\VAS\Fix Code\WebUI\Resources\bin\Debug\Resources.dll
+D:\Download\VAS\Fix Code\WebUI\Resources\bin\Debug\Resources.pdb
+D:\Download\VAS\Fix Code\WebUI\Resources\obj\Debug\Resources.csprojAssemblyReference.cache
+D:\Download\VAS\Fix Code\WebUI\Resources\obj\Debug\Resources.LanguageResource.resources
+D:\Download\VAS\Fix Code\WebUI\Resources\obj\Debug\Resources.csproj.GenerateResource.cache
+D:\Download\VAS\Fix Code\WebUI\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+D:\Download\VAS\Fix Code\WebUI\Resources\obj\Debug\Resources.dll
+D:\Download\VAS\Fix Code\WebUI\Resources\obj\Debug\Resources.pdb
+D:\Download\WebUI\Resources\bin\Debug\Resources.dll
+D:\Download\WebUI\Resources\bin\Debug\Resources.pdb
+D:\Download\WebUI\Resources\obj\Debug\Resources.LanguageResource.resources
+D:\Download\WebUI\Resources\obj\Debug\Resources.csproj.GenerateResource.cache
+D:\Download\WebUI\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+D:\Download\WebUI\Resources\obj\Debug\Resources.dll
+D:\Download\WebUI\Resources\obj\Debug\Resources.pdb
+D:\Source Git\PMC_VAS\WebUI\Resources\bin\Debug\Resources.dll
+D:\Source Git\PMC_VAS\WebUI\Resources\bin\Debug\Resources.pdb
+D:\Source Git\PMC_VAS\WebUI\Resources\obj\Debug\Resources.csprojAssemblyReference.cache
+D:\Source Git\PMC_VAS\WebUI\Resources\obj\Debug\Resources.LanguageResource.resources
+D:\Source Git\PMC_VAS\WebUI\Resources\obj\Debug\Resources.csproj.GenerateResource.cache
+D:\Source Git\PMC_VAS\WebUI\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+D:\Source Git\PMC_VAS\WebUI\Resources\obj\Debug\Resources.dll
+D:\Source Git\PMC_VAS\WebUI\Resources\obj\Debug\Resources.pdb
+F:\PMC_VAS\PMc\Resources\bin\Debug\Resources.dll
+F:\PMC_VAS\PMc\Resources\bin\Debug\Resources.pdb
+F:\PMC_VAS\PMc\Resources\obj\Debug\Resources.csprojAssemblyReference.cache
+F:\PMC_VAS\PMc\Resources\obj\Debug\Resources.LanguageResource.resources
+F:\PMC_VAS\PMc\Resources\obj\Debug\Resources.csproj.GenerateResource.cache
+F:\PMC_VAS\PMc\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+F:\PMC_VAS\PMc\Resources\obj\Debug\Resources.dll
+F:\PMC_VAS\PMc\Resources\obj\Debug\Resources.pdb
+D:\66\PMc\Resources\bin\Debug\Resources.dll
+D:\66\PMc\Resources\bin\Debug\Resources.pdb
+D:\66\PMc\Resources\obj\Debug\Resources.csprojAssemblyReference.cache
+D:\66\PMc\Resources\obj\Debug\Resources.LanguageResource.resources
+D:\66\PMc\Resources\obj\Debug\Resources.csproj.GenerateResource.cache
+D:\66\PMc\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+D:\66\PMc\Resources\obj\Debug\Resources.dll
+D:\66\PMc\Resources\obj\Debug\Resources.pdb
